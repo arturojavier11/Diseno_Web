@@ -11,9 +11,7 @@ Preguntas:
 1. ¿Qué significa CSS? (valor 0.25)
 
           a) Cascading Style Sheets
-          /*b) Computer Style Sheets*/
-          /*c) Creative Style Sheets*/
-          /*d) Colorful Style Sheets*/
+
           
 2. ¿Cuál es el HTML correcto para hacer referencia a una hoja de estilo externa?
 (valor 0.25)
